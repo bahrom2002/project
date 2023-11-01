@@ -1,0 +1,147 @@
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+
+:root {
+    --theme-general-color: #9b9b9b;
+    /* theme general color ok*/
+}
+
+:root {
+    --theme-primary-color: #41cf8f;
+    /* theme primary color */
+}
+
+:root {
+    --theme-secondary-color: #464654;
+    /* theme secondary color ok*/
+}
+
+:root {
+    --theme-white-color: #fff;
+    /* theme white font color ok*/
+}
+
+:root {
+    --theme-warning-color: #fbaf5d;
+    /* theme warning/yellow font color */
+}
+
+:root {
+    --theme-light-color: #f9f9f9;
+    /* theme light gray color ok*/
+}
+
+:root {
+    --theme-gray-color: #e7e7e8;
+    /* theme gray color */
+}
+
+:root {
+    --theme-dark-color: #120f2d;
+    /* theme dark color */
+}
+
+:root {
+    --theme-primary-opacity-color: rgba(191, 128, 114, .8);
+    /* theme primary opacity color */
+}
+
+:root {
+    --theme-secondary-opacity-color: rgba(20, 25, 38, .8);
+    /* theme secondary color */
+}
+
+:root {
+    --theme-dark-opacity-color: rgba(27, 27, 30, .8);
+    /* theme dark opacity color */
+}
+
+:root {
+    --theme-white-opacity-color: rgba(255, 255, 255, 0.5);
+    /* theme white color */
+}
+
+:root {
+    --theme-white-opacity-color: rgba(255, 255, 255, 0.8);
+    /* theme white color */
+}
+
+
+/*==================================
+Font Variable
+==================================*/
+
+:root {
+    --theme-general-font: 'Roboto', sans-serif;
+    /* Font use for normal text and general text ok*/
+}
+
+:root {
+    --theme-hiperlink-font: 'Roboto', sans-serif;
+    /* Font use for link text ok*/
+}
+
+:root {
+    --theme-highlight-font: 'Roboto Slab', serif;
+    /* Font used in title or special area ok*/
+}
+
+:root {
+    --theme-extra-font: 'Roboto', sans-serif;
+    /* Extra Font ok*/
+}
+
+
+/*==================================
+Extra CSS
+==================================*/
+
+.tab-style-2 ul li .nav-link {
+    font-family: var(--theme-general-font);
+    font-size: 16px;
+    font-weight: 300;
+    color: var(--theme-ordinary-color);
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .nav-link:hover,
+.nav-pills .show>.nav-link {
+    color: var(--theme-secondary-color);
+    font-weight: 400;
+}
+
+.navbar {
+    justify-content: flex-start;
+}
+
+.ecommerce-header .top-header {
+    font-size: 16px;
+    color: var(--theme-secondary-color);
+}
+
+.top-quantity {
+    color: var(--theme-secondary-color);
+}
+
+.top-header-col {
+    color: var(--theme-secondary-color);
+}
+
+footer {
+    font-family: var(--theme-extra-font);
+    font-size: 16px;
+}
+
+.footer-widget .widget-title {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer-widget ul li a {
+    font-size: 16px;
+}
+
+.copyright {
+    font-size: 16px;
+}

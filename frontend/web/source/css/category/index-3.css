@@ -1,0 +1,162 @@
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+
+:root {
+    --theme-general-color: #797979;
+    /* theme gray color ok*/
+}
+
+:root {
+    --theme-primary-color: #47d18d;
+    /* theme primary color ok*/
+}
+
+:root {
+    --theme-secondary-color: #464654;
+    /* theme secondary color ok*/
+}
+
+:root {
+    --theme-white-color: #fff;
+    /* theme white font color ok*/
+}
+
+:root {
+    --theme-warning-color: #fbaf5d;
+    /* theme warning/yellow font color */
+}
+
+:root {
+    --theme-light-color: #f5f5f5;
+    /* theme light gray color ok*/
+}
+
+:root {
+    --theme-gray-color: #e7e7e8;
+    /* theme gray color */
+}
+
+:root {
+    --theme-dark-color: #120f2d;
+    /* theme dark color */
+}
+
+:root {
+    --theme-footer-color: #1e2124;
+    /* theme dark color */
+}
+
+:root {
+    --theme-extra-color: #f3407f;
+    /* theme extra color ok*/
+}
+
+:root {
+    --theme-primary-opacity-color: rgba(191, 128, 114, .8);
+    /* theme primary opacity color */
+}
+
+:root {
+    --theme-secondary-opacity-color: rgba(20, 25, 38, .8);
+    /* theme secondary color */
+}
+
+:root {
+    --theme-dark-opacity-color: rgba(27, 27, 30, .8);
+    /* theme dark opacity color */
+}
+
+:root {
+    --theme-white-opacity-color: rgba(255, 255, 255, 0.5);
+    /* theme white color */
+}
+
+:root {
+    --theme-white-opacity90-color: rgba(255, 255, 255, 0.9);
+    /* theme white color */
+}
+
+
+/*==================================
+Font Variable
+==================================*/
+
+:root {
+    --theme-general-font: 'Roboto', sans-serif;
+    /* Font use for normal text and general text ok*/
+}
+
+:root {
+    --theme-hiperlink-font: 'Roboto', sans-serif;
+    /* Font use for link text ok*/
+}
+
+:root {
+    --theme-highlight-font: 'Roboto Slab', serif;
+    /* Font used in title or special area ok*/
+}
+
+:root {
+    --theme-extra-font: 'Roboto', sans-serif;
+    /* Extra Font ok*/
+}
+
+
+/*==================================
+Extra CSS
+==================================*/
+
+.top-discount span {
+    color: var(--theme-extra-color);
+}
+
+.top-header-col {
+    color: var(--theme-dark-color);
+}
+
+.navbar {
+    justify-content: flex-start;
+}
+
+.service-1 {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#38cc92+0,5fd986+100 */
+    background: rgb(56, 204, 146);
+    /* Old browsers */
+    background: -moz-linear-gradient(left, rgba(56, 204, 146, .8) 0%, rgba(95, 217, 134, .8) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(56, 204, 146, .8) 0%, rgba(95, 217, 134, .8) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(56, 204, 146, .8) 0%, rgba(95, 217, 134, .8) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#38cc92', endColorstr='#5fd986', GradientType=1);
+    /* IE6-9 */
+    color: var(--theme-white-color);
+    padding: 20px;
+}
+
+.service-1 .title {
+    font-family: var(--theme-general-font);
+}
+
+.service-1 .title a {
+    color: var(--theme-white-color);
+}
+
+footer {
+    font-family: var(--theme-extra-font);
+    font-size: 16px;
+}
+
+.footer-widget .widget-title {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer-widget ul li a {
+    font-size: 16px;
+}
+
+.copyright {
+    font-size: 16px;
+}
