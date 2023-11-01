@@ -24,9 +24,9 @@ MyAsset::register($this);
     <meta name="description" content="Bengo - Multipurpose Ecommerce HTML Template">
 
     <meta name="author" content="root">
-    <title>Bengo - Multipurpose Ecommerce HTML Template</title>
+    <title>Bosh sahifa</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/images/favicon.png">
+    <link rel="shortcut icon" href="/assets/images/favicon.png">
     <?php $this->head() ?>
 </head>
 <body class="d-flex flex-column h-100">
@@ -111,7 +111,7 @@ MyAsset::register($this);
                     <div class="col-12 d-flex flex-wrap align-items-center justify-content-between">
                         <div class="main-nav d-flex align-items-center flex-grow-1 me-4">
                             <nav class="navbar navbar-expand-lg nav-dark nav-primary-hover w-100">
-                                <a class="navbar-brand" href="/site/index"><img class="nav-logo" src="assets/images/logo/2.png" alt="Image not found !"></a>
+                                <a class="navbar-brand" href="/site/index"><img class="nav-logo" src="/assets/images/logo/2.png" alt="Image not found !"></a>
                                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <i class="navbar-toggler-icon flaticon-menu-2 flat-small text-primary"></i>
                                 </button>
@@ -185,7 +185,7 @@ MyAsset::register($this);
                                                 <li class="woocommerce-mini-cart-item mini_cart_item">
                                                     <a href="/site/index" class="remove remove_from_cart_button" aria-label="Remove this item">×</a>
                                                     <a class="mini_cart_item_image product-image bg-light" href="/site/index">
-                                                        <img src="assets/images/thumb/square-1.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" width="300" height="300">
+                                                        <img src="/assets/images/thumb/square-1.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" width="300" height="300">
                                                     </a>
                                                     <a class="product-name" href="/site/index">Hand Made Cloth</a>
                                                     <div class="variation">
@@ -199,7 +199,7 @@ MyAsset::register($this);
                                                 <li class="woocommerce-mini-cart-item mini_cart_item">
                                                     <a href="/site/index" class="remove remove_from_cart_button" aria-label="Remove this item">×</a>
                                                     <a class="mini_cart_item_image product-image bg-light" href="/site/index">
-                                                        <img src="assets/images/thumb/square-1.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" width="300" height="300">
+                                                        <img src="/assets/images/thumb/square-1.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" width="300" height="300">
                                                     </a>
                                                     <a class="product-name" href="/site/index">Women Fish Cut Cloth</a>
                                                     <div class="variation">
@@ -272,22 +272,22 @@ MyAsset::register($this);
                         <h3 class="widget-title mb-4">Instagram</h3>
                         <ul>
                             <li>
-                                <a href="assets/images/gallery/8.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="assets/images/gallery/8.png" alt=""></a>
+                                <a href="/assets/images/gallery/8.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="/assets/images/gallery/8.png" alt=""></a>
                             </li>
                             <li>
-                                <a href="assets/images/gallery/9.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="assets/images/gallery/9.png" alt=""></a>
+                                <a href="/assets/images/gallery/9.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="/assets/images/gallery/9.png" alt=""></a>
                             </li>
                             <li>
-                                <a href="assets/images/gallery/10.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="assets/images/gallery/10.png" alt=""></a>
+                                <a href="/assets/images/gallery/10.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="/assets/images/gallery/10.png" alt=""></a>
                             </li>
                             <li>
-                                <a href="assets/images/gallery/11.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="assets/images/gallery/11.png" alt=""></a>
+                                <a href="/assets/images/gallery/11.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="/assets/images/gallery/11.png" alt=""></a>
                             </li>
                             <li>
-                                <a href="assets/images/gallery/12.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="assets/images/gallery/12.png" alt=""></a>
+                                <a href="/assets/images/gallery/12.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="/assets/images/gallery/12.png" alt=""></a>
                             </li>
                             <li>
-                                <a href="assets/images/gallery/13.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="assets/images/gallery/13.png" alt=""></a>
+                                <a href="/assets/images/gallery/13.png" data-fancybox="gallery" data-caption="Caption for single image"><img src="/assets/images/gallery/13.png" alt=""></a>
                             </li>
                         </ul>
                     </div>
@@ -349,7 +349,7 @@ MyAsset::register($this);
             skin: 'v6',
             globalBGColor: '#ffffff',
             navStartStop: false,
-            skinsPath: 'assets/skins/',
+            skinsPath: '/assets/skins/',
             height: 900
         });
     });

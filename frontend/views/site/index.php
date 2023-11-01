@@ -21,7 +21,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_17_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_17_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -67,7 +67,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_22_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_22_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -122,7 +122,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_23_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_23_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -168,7 +168,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_24_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_24_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -219,7 +219,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_25_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_25_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -274,7 +274,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_21_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_21_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -332,7 +332,7 @@
                 <div class="category-carousel-2 six-carousel owl-carousel nav-arrow-middle-show owl-nav-3 dot-disable">
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/1.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/1.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Bags</a></div>
                             <h6 class="product-title"><a href="/site/index">Computers & Accessories</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -341,7 +341,7 @@
                     </div>
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/2.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/2.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Clothing</a></div>
                             <h6 class="product-title"><a href="/site/index">Cameras, Audio & Video</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -350,7 +350,7 @@
                     </div>
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/3.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/3.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Shoes</a></div>
                             <h6 class="product-title"><a href="/site/index">Movies, Music & Games</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -359,7 +359,7 @@
                     </div>
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/4.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/4.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Shirt</a></div>
                             <h6 class="product-title"><a href="/site/index">Mobiles & Tablets</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -368,7 +368,7 @@
                     </div>
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/5.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/5.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Sun Glass</a></div>
                             <h6 class="product-title"><a href="/site/index">Watches & Eyewear</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -377,7 +377,7 @@
                     </div>
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/6.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/6.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Cap</a></div>
                             <h6 class="product-title"><a href="/site/index">Car & Motorbike</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -386,7 +386,7 @@
                     </div>
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/1.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/1.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Bags</a></div>
                             <h6 class="product-title"><a href="/site/index">Computers & Accessories</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -395,7 +395,7 @@
                     </div>
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/2.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/2.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Clothing</a></div>
                             <h6 class="product-title"><a href="/site/index">Cameras, Audio & Video</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -404,7 +404,7 @@
                     </div>
                     <div class="item">
                         <div class="category-style-3">
-                            <div class="icon-area"><img src="assets/images/category/3.png" alt="Icon Image Not Found!"></div>
+                            <div class="icon-area"><img src="/assets/images/category/3.png" alt="Icon Image Not Found!"></div>
                             <div class="product-cats"><a href="/site/index">Shoes</a></div>
                             <h6 class="product-title"><a href="/site/index">Movies, Music & Games</a></h6>
                             <div class="brand"><span>Branding, Products</span></div>
@@ -438,7 +438,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_17_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_17_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -500,7 +500,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_21_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_21_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -556,7 +556,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_23_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_23_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -613,7 +613,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_24_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_24_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -678,7 +678,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_25_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_25_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -740,7 +740,7 @@
                             <div class="product type-product">
                                 <div class="product-wrapper">
                                     <div class="product-image">
-                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_26_1.png" alt="Product Not Found!"></a>
+                                        <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_26_1.png" alt="Product Not Found!"></a>
                                         <div class="e-buttons-set">
                                             <div class="quickview-button">
                                                 <a class="quickview-btn" href="/site/index" data-bs-toggle="tooltip" data-bs-original-title="Quick View">Quick View</a>
@@ -806,7 +806,7 @@
         <div class="row g-4">
             <div class="col-lg-6">
                 <div class="custom-class-11">
-                    <div class="banner-image"><img src="assets/images/banner/3.png" alt="Banner Image Not Found!"></div>
+                    <div class="banner-image"><img src="/assets/images/banner/3.png" alt="Banner Image Not Found!"></div>
                     <div class="banner-content">
                         <h1 class="title"><a href="/site/index">New Item Aviable On This August</a></h1>
                         <div class="time-count-2 mt-auto" data-countdown="2021/12/31"></div>
@@ -817,7 +817,7 @@
                 <div class="row g-4">
                     <div class="col-lg-12">
                         <div class="custom-class-10">
-                            <div class="banner-image"><img src="assets/images/banner/4.png" alt="Banner Image Not Found!"></div>
+                            <div class="banner-image"><img src="/assets/images/banner/4.png" alt="Banner Image Not Found!"></div>
                             <div class="banner-content">
                                 <h1 class="title"><a href="/site/index">Our 2021 Note Book</a></h1>
                             </div>
@@ -825,7 +825,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="custom-class-9">
-                            <div class="banner-image"><img src="assets/images/banner/5.png" alt="Banner Image Not Found!"></div>
+                            <div class="banner-image"><img src="/assets/images/banner/5.png" alt="Banner Image Not Found!"></div>
                             <div class="banner-content">
                                 <a href="/site/index" class="btn btn-secondary">Tranding</a>
                                 <h1 class="title">Check Top Tranding Item</h1>
@@ -835,7 +835,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="custom-class-9">
-                            <div class="banner-image"><img src="assets/images/banner/6.png" alt="Banner Image Not Found!"></div>
+                            <div class="banner-image"><img src="/assets/images/banner/6.png" alt="Banner Image Not Found!"></div>
                             <div class="banner-content">
                                 <h1 class="title"><span class="text-secondary">Sale OFF</span> Upto 60% For Every Sale</h1>
                                 <a href="/site/index" class="btn-link text-primary">View All</a>
@@ -867,7 +867,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_34_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_34_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Power Bank</a></h6>
@@ -912,7 +912,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_35_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_35_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Watch</a></h6>
@@ -957,7 +957,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_16_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_16_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Wireless Headphone</a></h6>
@@ -1002,7 +1002,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_36_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_36_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Phone</a></h6>
@@ -1047,7 +1047,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_21_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_21_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Wireless Headphone</a></h6>
@@ -1092,7 +1092,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_17_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_17_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Band</a></h6>
@@ -1141,7 +1141,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_22_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_22_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Power Bank</a></h6>
@@ -1186,7 +1186,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_25_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_25_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Watch</a></h6>
@@ -1231,7 +1231,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_27_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_27_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Wireless Headphone</a></h6>
@@ -1276,7 +1276,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_28_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_28_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Phone</a></h6>
@@ -1321,7 +1321,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_29_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_29_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Wireless Headphone</a></h6>
@@ -1366,7 +1366,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_30_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_30_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Band</a></h6>
@@ -1426,7 +1426,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_34_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_34_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Power Bank</a></h6>
@@ -1471,7 +1471,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_35_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_35_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Watch</a></h6>
@@ -1516,7 +1516,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_16_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_16_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Wireless Headphone</a></h6>
@@ -1561,7 +1561,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_36_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_36_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Phone</a></h6>
@@ -1606,7 +1606,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_21_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_21_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Wireless Headphone</a></h6>
@@ -1651,7 +1651,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_17_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_17_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Band</a></h6>
@@ -1700,7 +1700,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_22_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_22_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Power Bank</a></h6>
@@ -1745,7 +1745,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_25_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_25_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Watch</a></h6>
@@ -1790,7 +1790,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_27_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_27_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Wireless Headphone</a></h6>
@@ -1835,7 +1835,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_28_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_28_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Phone</a></h6>
@@ -1880,7 +1880,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_29_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_29_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Wireless Headphone</a></h6>
@@ -1925,7 +1925,7 @@
                                     <div class="product type-product">
                                         <div class="product-wrapper">
                                             <div class="product-image">
-                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="assets/images/products/product_30_1.png" alt="Product Not Found!"></a>
+                                                <a href="/site/index" class="woocommerce-LoopProduct-link"><img src="/assets/images/products/product_30_1.png" alt="Product Not Found!"></a>
                                             </div>
                                             <div class="product-info">
                                                 <h6 class="product-title"><a href="/site/index">Smart Band</a></h6>
@@ -1982,7 +1982,7 @@
         <div class="row g-4">
             <div class="col-lg-6">
                 <div class="custom-class-7">
-                    <div class="banner-image"><img src="assets/images/banner/7.png" alt="Banner Image Not Found!"></div>
+                    <div class="banner-image"><img src="/assets/images/banner/7.png" alt="Banner Image Not Found!"></div>
                     <div class="banner-content">
                         <a href="/site/index" class="btn btn-secondary">Best Saleing</a>
                         <h1 class="title">Our Best & Top Rated Women’s Collection</h1>
@@ -1992,7 +1992,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="custom-class-8">
-                    <div class="banner-image"><img src="assets/images/banner/8.png" alt="Banner Image Not Found!"></div>
+                    <div class="banner-image"><img src="/assets/images/banner/8.png" alt="Banner Image Not Found!"></div>
                     <div class="banner-content">
                         <a href="/site/index" class="btn btn-primary">Tranding</a>
                         <h1 class="title">Our Men’s Collection Tranding Items UpTo 40% Sale Off</h1>
