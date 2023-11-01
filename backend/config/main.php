@@ -21,6 +21,7 @@ return [
             ],
         ],
         'request' => [
+            'baseUrl' => '',
             'csrfParam' => '_csrf-backend',
         ],
         'user' => [
